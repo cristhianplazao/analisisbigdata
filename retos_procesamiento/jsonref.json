@@ -1,0 +1,8 @@
+{
+    "point":1,
+    "listdata":["reut2-002.sgm","reut2-008.sgm"],
+    "filetar":"C:/projects/laboratorio_1/data/reuters21578.tar.gz",
+    "wordfilter":"said",
+    "topvalue":10,
+    "output":"C:/projects/laboratorio_1/data/"
+    }
